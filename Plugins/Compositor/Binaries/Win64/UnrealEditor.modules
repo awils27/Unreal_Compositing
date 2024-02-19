@@ -1,0 +1,9 @@
+{
+	"BuildId": "25360045",
+	"Modules": 
+	{
+		"Compositor": "UnrealEditor-Compositor.dll",
+		"CompositorEditor": "UnrealEditor-CompositorEditor.dll",
+		"CompositorEditorUtilityWidget": "UnrealEditor-CompositorEditorUtilityWidget.dll"
+	}
+}
